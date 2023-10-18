@@ -1,6 +1,6 @@
 const CONFIG = {
-    introTitle: 'Chào thân ái, hội gái xinh RIL-SIM!',
-    introDesc: `Nhân ngày 20/10, hội trai đẹp RIL-SIM xin gửi tới các chị em những lời chúc tình cảm nhất. Chúc các chị em luôn xinh đẹp, vui vẻ và tràn đầy năng lượng. Mong rằng tình yêu và sự quan tâm sẽ luôn được đổ đầy trong cuộc sống của mỗi người. Cảm ơn các chị em vì sự đóng góp và tỏa sáng của mình trong team. Hãy tiếp tục phấn đấu và theo đuổi ước mơ của mình. Chúc mừng ngày của các chị em!`,
+    introTitle: 'Chào thân ái, RIL-SIM girls!',
+    introDesc: `Nhân ngày 20/10, hội trai đẹp RIL-SIM gửi các chị em những lời chúc tình cảm nhất. Chúc các chị em luôn xinh đẹp, vui vẻ và tràn đầy năng lượng. Mong rằng tình yêu và sự quan tâm sẽ luôn được đổ đầy trong cuộc sống của mỗi người. Cảm ơn các chị em vì sự đóng góp và tỏa sáng của mình trong team. Hãy tiếp tục phấn đấu và theo đuổi ước mơ của mình. Chúc mừng ngày của các chị em!`,
     btnIntro: 'hihi',
     title: 'Vài câu hát thay lời muốn nói, enjoy cái moment này đi ạ😙',
     desc: 'Chị em có thấy các anh em đẹp trai có tình cảm hem nè ',
